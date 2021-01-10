@@ -1,2 +1,2 @@
 # image-name-unifier
- rool kit to unify image names
+ tool kit to unify image names
